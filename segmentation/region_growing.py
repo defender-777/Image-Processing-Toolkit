@@ -27,7 +27,7 @@ def region_growing(image, seed, thresh=5):
 
 # -------- RUN ----------
 
-img = cv2.imread("Red_Apple.jpg", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread("image2.jpg", cv2.IMREAD_GRAYSCALE)
 seed = (100, 150)       # Choose manually
 mask = region_growing(img, seed, thresh=8)
 
