@@ -49,4 +49,4 @@ if __name__ == "__main__":
     plt.subplot(1,2,2); plt.imshow(filters['Median']); plt.title("Restored (Median)"); plt.axis("off")
     plt.show()
 
-# Noise removal technique
+# Noise Removal Techniques
