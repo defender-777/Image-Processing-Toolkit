@@ -48,3 +48,5 @@ if __name__ == "__main__":
     plt.subplot(1,2,1); plt.imshow(noisy); plt.title("Noisy Image"); plt.axis("off")
     plt.subplot(1,2,2); plt.imshow(filters['Median']); plt.title("Restored (Median)"); plt.axis("off")
     plt.show()
+
+# Noise removal technique
