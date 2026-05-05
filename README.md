@@ -1,4 +1,4 @@
-# 🧠 Image Processing Projects
+# 🧠 Image Processing Project
 
 This repository contains foundational **Image Processing** projects implemented using **OpenCV**, **NumPy**, and **Matplotlib**.
 
