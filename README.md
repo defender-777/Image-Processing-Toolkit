@@ -4,7 +4,7 @@ This repository contains foundational **Image Processing** projects implemented 
 
 ---
 
-## 📸 Projects Included in the Toolkit (new Version)
+## 📸 Projects Included in the Toolkit (new Version)(2)
 
 ### 1️⃣ Image Noise Removal and Restoration
 - Adds Gaussian, Salt & Pepper, and Speckle noise to an image.
