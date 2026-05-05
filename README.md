@@ -4,7 +4,7 @@ This repository contains foundational **Image Processing** projects implemented 
 
 ---
 
-## 📸 Projects Included in the Toolkit 
+## 📸 Projects Included in the Toolkit (New)
 
 
 ### 1️⃣ Image Noise Removal and Restoration
